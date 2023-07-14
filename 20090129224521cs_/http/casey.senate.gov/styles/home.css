@@ -1,0 +1,46 @@
+#home #main { width:765px;background:url(/web/20090129224521im_/http://casey.senate.gov/images/featured_bg.png) repeat-x bottom left !important;display:inline-block; }
+#home #main_border_right { min-height:331px !important;background:url(/web/20090129224521im_/http://casey.senate.gov/images/main_gradient_border.png) no-repeat top right !important;padding:0px 11px 10px 5px !important; }
+#main .left { float:left;width:471px;padding:23px 0px 0px 0px; }
+#main .right { float:right;width:272px;padding:23px 0px 0px 0px; }
+#main .left p { margin-left:9px; }
+
+#flash { width:465px;height:397px; }
+#bobs_priorities { height:26px;background:url(/web/20090129224521im_/http://casey.senate.gov/images/home/bobs_priorities.png) no-repeat;margin:13px 0px 0px 0px;padding:0px; }
+
+#middle { padding:30px 10px 30px 10px; }
+#middle .left { float:left;width:471px; }
+#middle .right { float:right;width:272px; }
+
+#recent_news { height:23px;background:url(/web/20090129224521im_/http://casey.senate.gov/images/home/recent_news.png) no-repeat;margin:0px 0px 15px 0px; }
+#news_table { margin-bottom:15px;width:100%; }
+#news_table tr { background:url(/web/20090129224521im_/http://casey.senate.gov/images/home/news_table_tr_bg.png) no-repeat bottom left !important; }
+#news_table td { padding:10px;font-size:.85em; }
+#news_table td.date { white-space:nowrap;width:1%; }
+#more_news { font-size:.9em }
+
+#announcements { height:23px;background:url(/web/20090129224521im_/http://casey.senate.gov/images/home/announcements.png) no-repeat;margin:0px 0px 15px 0px; }
+#announcments_title { font:normal normal bold .95em"Trebuchet MS",Trebuchet,Arial,sans-serif;color:#090e2c;margin:0px 0px 5px 0px; }
+
+.hr { border:0px;height:2px;background:url(/web/20090129224521im_/http://casey.senate.gov/images/hr_bg.png);margin:0px;padding:0px; }
+/*hr { border:0px;height:2px;background:url(/web/20090129224521im_/http://casey.senate.gov/images/hr_bg.png);margin:0px;padding:0px; }*/
+.hr hr { display:none; }
+/*
+     FILE ARCHIVED ON 22:45:21 Jan 29, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:37:41 Jul 14, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 74.913
+  exclusion.robots: 0.242
+  exclusion.robots.policy: 0.229
+  RedisCDXSource: 0.974
+  esindex: 0.01
+  LoadShardBlock: 44.48 (3)
+  PetaboxLoader3.datanode: 78.241 (4)
+  load_resource: 109.465
+  PetaboxLoader3.resolve: 51.167
+*/

@@ -1,0 +1,146 @@
+body { margin:0px 0px 18px 0px;background:#263149 url(/web/20090129224509im_/http://casey.senate.gov/images/body_bg.gif) repeat-x;text-align:center; font-size:15px;}
+
+.body_med { font-size:1.1em; }
+.body_large { font-size:1.4em; }
+
+#supra_nav { float:right;display:inline-block;text-align:center;height:27px;padding-top:18px; }
+#supra_nav a:link,#supra_nav a:visited { display:block;float:left;font:normal normal normal 9pt Arial,sans-serif;color:#ffffff;text-decoration:none; }
+#supra_nav a:hover { text-decoration:underline; }
+#supra_nav div { float:left;margin-left:3px;font:normal normal normal 9pt Arial,sans-serif;/*color:#9ca5af;*/color:#ffffff; }
+
+#font_select:link,#font_select:visited { width:7px;height:13px;background:url(/web/20090129224509im_/http://casey.senate.gov/images/font_select_small_bg.png) 0px -13px;margin-left:10px; }
+#font_select_med:link,#font_select_med:visited { width:9px;height:13px;background:url(/web/20090129224509im_/http://casey.senate.gov/images/font_select_med_bg.png);margin-left:7px; }
+#font_select_large:link,#font_select_large:visited { width:10px;height:13px;background:url(/web/20090129224509im_/http://casey.senate.gov/images/font_select_large_bg.png);margin:0px 7px 0px 7px; }
+#font_select_small:hover,#font_select_med:hover,#font_select_large:hover,.med #font_select_med,.large #font_select_large { background-position:0px -13px; }
+.med #font_select,.large #font_select { background-position:0px 0px; }
+
+#contact_container { background:url(/web/20090129224509im_/http://casey.senate.gov/images/supra_nav_bg.png) no-repeat center right;padding-right:10px; }
+#search_container { background:url(/web/20090129224509im_/http://casey.senate.gov/images/supra_nav_bg.png) no-repeat center left;padding-left:10px; }
+#search { display:block;font-size:7pt !important;position:relative;top:-2px; }
+#search_button { display:block;margin:1px 0px 0px 5px; }
+
+#container { margin:0px auto;text-align:left;width:779px; }
+#content { clear:right;padding:7px;background-color:#ffffff;display:inline-block; }
+/* #logo { display:block;width:765px;height:110px;background:url(/web/20090129224509im_/http://casey.senate.gov/images/logo.png); } */
+
+/* nav */
+#nav { height:38px;background-color:#0a0f2e; }
+#nav ul { margin:0px;padding:0px;list-style:none;z-index:999; }
+#nav ul li { float:left;margin:0px;padding:0px;z-index:999; }
+#nav ul li a { display:block;height:38px;z-index:999; }
+#nav ul li a span { display:none; }
+
+#nav_home { width:94px;background:url(/web/20090129224509im_/http://casey.senate.gov/images/nav_home.gif) no-repeat; }
+#nav_about { width:123px;background:url(/web/20090129224509im_/http://casey.senate.gov/images/nav_about.gif) no-repeat; }
+#nav_issues { width:97px;background:url(/web/20090129224509im_/http://casey.senate.gov/images/nav_issues.gif) no-repeat; }
+#nav_constituent_services { width:186px;background:url(/web/20090129224509im_/http://casey.senate.gov/images/nav_constituent_services.gif) no-repeat; }
+#nav_newsroom { width:124px;background:url(/web/20090129224509im_/http://casey.senate.gov/images/nav_newsroom.gif) no-repeat; }
+#nav_pennsylvania { width:141px;background:url(/web/20090129224509im_/http://casey.senate.gov/images/nav_pennsylvania.gif) no-repeat; }
+
+#nav_home:hover,#nav_home.over,#nav_about:hover,#nav_about.over,#nav_issues:hover,#nav_issues.over,#nav_constituent_services:hover,#nav_constituent_services.over,#nav_newsroom:hover,#nav_newsroom.over,#nav_pennsylvania:hover,#nav_pennsylvania.over,#home #nav_home:hover,#home #nav_home.over,#about #nav_about:hover,#about #nav_about.over,#issues #nav_issues:hover,#issues #nav_issues.over,#constituent_services #nav_constituent_services:hover,#constituent_services #nav_constituent_services.over,#newsroom #nav_newsroom:hover,#newsroom #nav_newsroom.over,#pennsylvania #nav_pennsylvania:hover,#pennsylvania #nav_pennsylvania.over { background-position:0px -38px; }
+#home #nav_home,#about #nav_about,#issues #nav_issues,#constituent_services #nav_constituent_services,#newsroom #nav_newsroom,#pennsylvania #nav_pennsylvania { background-position:0px -76px; }
+/* end nav */
+
+/* sub nav */
+#nav ul ul { position:absolute;display:none;background:#9ba6ae url(/web/20090129224509im_/http://casey.senate.gov/images/sub_nav_bg.gif) repeat-x; }
+#nav ul ul li { float:none !important;border:1px solid #8e9aa2;border-top:1px solid #dadee1; }
+#nav_about:hover ul,#nav_about.over ul,#nav_issues:hover ul,#nav_issues.over ul,#nav_constituent_services:hover ul,#nav_constituent_services.over ul,#nav_newsroom:hover ul,#nav_newsroom.over ul,#nav_pennsylvania:hover ul,#nav_pennsylvania.over ul { display:block; }
+#nav ul ul li a:link,#nav ul ul li a:visited { z-index:100;display:block;height:auto !important;background:transparent !important;font:normal normal normal .75em Verdana,sans-serif;color:#515d74;text-decoration:none;padding:10px 29px 10px 29px;white-space:nowrap; }
+#nav ul ul li a:hover { color:#263a49;background-color:#ffffff !important; }
+/* end sub nav */
+
+#main_border_right { background:url(/web/20090129224509im_/http://casey.senate.gov/images/main_gradient_border.png) no-repeat top right;padding:50px 0px 0px 10px; }
+#main_border_left { background:url(/web/20090129224509im_/http://casey.senate.gov/images/main_gradient_border.png) no-repeat top left; }
+
+#footer { border:0px;padding-bottom:20px;background:#090e2c url(/web/20090129224509im_/http://casey.senate.gov/images/footer_bg.gif) repeat-x; }
+#footer p { color:#b6b8c4; }
+#footer .left { float:left;width:471px;padding:19px 0px 0px 0px; }
+#footer .right { float:right;width:247px;padding:19px 25px 0px 0px; }
+
+#office_locations { height:21px;background:url(/web/20090129224509im_/http://casey.senate.gov/images/office_locations.gif) no-repeat;margin:0px 0px 0px 10px; }
+#address_links { float:left;width:119px; }
+#addresses a { display:block;width:119px; }
+#addresses p { float:left;padding:20px 0px 20px 25px;margin:0px;background:url(/web/20090129224509im_/http://casey.senate.gov/images/selected_address_bg.gif);width:215px; }
+#link_washington:link,#link_washington:visited { margin-top:1px;background:url(/web/20090129224509im_/http://casey.senate.gov/images/washington.gif) no-repeat 0px 0px;height:25px; }
+#link_harrisburg:link,#link_harrisburg:visited { background:url(/web/20090129224509im_/http://casey.senate.gov/images/harrisburg.gif) no-repeat;height:25px; }
+#link_philadelphia:link,#link_philadelphia:visited { background:url(/web/20090129224509im_/http://casey.senate.gov/images/philadelphia.gif) no-repeat;height:23px; }
+#link_pittsburgh:link,#link_pittsburgh:visited { background:url(/web/20090129224509im_/http://casey.senate.gov/images/pittsburgh.gif) no-repeat;height:25px; }
+#link_northeastern:link,#link_northeastern:visited { background:url(/web/20090129224509im_/http://casey.senate.gov/images/northeastern.gif) no-repeat;height:25px; }
+#link_central:link,#link_central:visited { background:url(/web/20090129224509im_/http://casey.senate.gov/images/central.gif) no-repeat;height:25px; }
+#link_erie:link,#link_erie:visited { background:url(/web/20090129224509im_/http://casey.senate.gov/images/erie.gif) no-repeat;height:25px; }
+#link_lehigh_valley:link,#link_lehigh_valley:visited { background:url(/web/20090129224509im_/http://casey.senate.gov/images/lehigh_valley.gif) no-repeat;height:25px; }
+#link_washington:hover,#link_harrisburg:hover,#link_pittsburgh:hover,#link_northeastern:hover,#link_central:hover,#link_erie:hover,#link_lehigh_valley:hover { background-position:0px -25px; }
+#link_philadelphia:hover { background-position:0px -23px; }
+.sel_washington #link_washington,.sel_harrisburg #link_harrisburg,.sel_pittsburgh #link_pittsburgh,.sel_northeastern #link_northeastern,.sel_central #link_central,.sel_erie #link_erie,.sel_lehigh_valley #link_lehigh_valley { background-position:0px -50px; }
+.sel_philadelphia #link_philadelphia { background-position:0px -46px; }
+#address_washington,#address_harrisburg,#address_philadelphia,#address_pittsburgh,#address_northeastern,#address_central,#address_erie,#address_lehigh_valley { display:none; }
+.sel_washington #address_washington,.sel_harrisburg #address_harrisburg,.sel_philadelphia #address_philadelphia,.sel_pittsburgh #address_pittsburgh,.sel_northeastern #address_northeastern,.sel_central #address_central,.sel_erie #address_erie,.sel_lehigh_valley #address_lehigh_valley { display:block; }
+#footer_bottom { clear:both;margin-top:35px;font-size:8pt; }
+#footer_bottom a:link,#footer_bottom a:visited { color:#8c9825;text-decoration:none; }
+#footer_bottom a:hover { text-decoration:underline; }
+
+#newsletter { height:21px;background:url(/web/20090129224509im_/http://casey.senate.gov/images/newsletter.gif) no-repeat;margin:0px; }
+#footer .right p { margin:0px 0px 5px 0px; }
+#form_newsletter { display:block;width:115px;height:15px;font-size:9pt;color:#ffffff; }
+#form_newsletter td label {font-size:1em;line-height:1em;font-family:"Trebuchet MS",Trebuchet,Arial,sans-serif;font-size-adjust:none;font-stretch:normal;font-style:normal; color:#B6B8C4; }
+#sign_me_up { margin-top:3px; }
+#confirmed_email { font:italic normal normal 1em "Trebuchet MS",Trebuchet,Arial,sans-serif;color:#b6b8c4;text-decoration:underline; }
+#signup_indicator { height:16px;margin-top:5px;font:italic normal normal .8em/1.3em "Trebuchet MS",Trebuchet,Arial,sans-serif;color:#b6b8c4;background:url(/web/20090129224509im_/http://casey.senate.gov/images/busy.gif) no-repeat;padding-left:25px }
+#notice { height:16px;margin-top:5px;font:italic normal normal .8em/1.3em "Trebuchet MS",Trebuchet,Arial,sans-serif;color:#f8c31e;background:url(/web/20090129224509im_/http://casey.senate.gov/images/notice.png) no-repeat;padding-left:23px }
+
+#bottom { text-align:center;font:normal normal normal .7em Verdana,sans-serif;color:#596c7c;padding-top:12px; }
+#bottom a { color:#afb4be; }
+
+/*p,td { font:normal normal normal .8em/1.5em "Trebuchet MS",Trebuchet,Arial,sans-serif;color:#959595; }*/
+p,td,span,dd,ol { font:normal normal normal .8em/1.6em "Trebuchet MS",Trebuchet,Arial,sans-serif;color:#5c6273; }
+ol,ol ol { font-size:1em !important; }
+blockquote { padding:0px;font:italic normal normal .8em/1.6em "Georgia",Arial,sans-serif;color:#5c6273; }
+img { border:0px; }
+
+h1,h2 span,h3 span,h4 span,.nocss { display:none; }
+form { margin:0px; }
+.clear_div { clear:both; }
+.first_p { margin-top:0px; }
+#main li { font:normal normal normal .8em/1.6em "Trebuchet MS",Trebuchet,Arial,sans-serif;color:#5c6273;margin-bottom:.5em; }
+
+a:link,a:visited { font-family:"Trebuchet MS",Trebuchet,Arial,sans-serif;color:#860000;text-decoration:none; }
+a:hover { text-decoration:underline; }
+a:focus { -moz-outline-style: none; } 
+
+.med_link { font-size:1.1em; }
+
+.h4_link { margin:14px 0px 5px 0px; }
+.h4_link a { font:normal normal bold 1.05em "Trebuchet MS",Helvetica,Arial,sans-serif; }
+
+/* nested item normalization selectors */
+div div,div span,div td { font-size:1em;line-height:1em; }
+
+h2 { width:450px;font:normal normal bold 1.4em Garamond,Georgia,serif;color:#090e2c;margin:0px;padding-bottom:1px; }
+.left h3 { background:url(/web/20090129224509im_/http://casey.senate.gov/images/hr_470.png) no-repeat bottom left;margin:0px; }
+.right h3 { background:url(/web/20090129224509im_/http://casey.senate.gov/images/hr_270.png) no-repeat bottom left;margin:0px; }
+
+.pod { margin-bottom:50px; }
+
+.new_window { padding-right:15px;background:url(/web/20090129224509im_/http://casey.senate.gov/images/embellishment.png) no-repeat top right; }
+.highlight { color:#860000; }
+.required { font-weight:bold;color:#860000; }
+/*
+     FILE ARCHIVED ON 22:45:09 Jan 29, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:37:40 Jul 14, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 165.024
+  exclusion.robots: 0.156
+  exclusion.robots.policy: 0.147
+  RedisCDXSource: 0.608
+  esindex: 0.007
+  LoadShardBlock: 142.253 (3)
+  PetaboxLoader3.datanode: 140.353 (4)
+  load_resource: 105.246
+  PetaboxLoader3.resolve: 59.147
+*/

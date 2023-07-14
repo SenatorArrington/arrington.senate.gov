@@ -1,0 +1,96 @@
+Uri: https://archive.org/includes/analytics.js?v=cf34f82
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\includes\analytics.js
+Content Type: application/x-javascript
+
+Uri: https://archive.org/services/img/web_con
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\services\img\web_con
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20090129224450/http://casey.senate.gov/
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\web\20090129224450\http\casey.senate.gov\index.htm
+Content Type: text/html
+
+Uri: https://web.archive.org/web/20090129224459im_/http://casey.senate.gov/images/logos/logo_02.png
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\web\20090129224459im_\http\casey.senate.gov\images\logos\logo_02.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20090129224509cs_/http://casey.senate.gov/styles/global.css
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\web\20090129224509cs_\http\casey.senate.gov\styles\global.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20090129224513js_/http://casey.senate.gov/scripts/global.js
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\web\20090129224513js_\http\casey.senate.gov\scripts\global.js
+Content Type: application/javascript
+
+Uri: https://web.archive.org/web/20090129224517js_/http://casey.senate.gov/scripts/swfobject.js
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\web\20090129224517js_\http\casey.senate.gov\scripts\swfobject.js
+Content Type: application/javascript
+
+Uri: https://web.archive.org/web/20090129224521cs_/http://casey.senate.gov/styles/home.css
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\web\20090129224521cs_\http\casey.senate.gov\styles\home.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20090129224543js_/http://casey.senate.gov/scripts/mootools.v1.11.js
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\web\20090129224543js_\http\casey.senate.gov\scripts\mootools.v1.11.js
+Content Type: application/javascript
+
+Uri: https://web.archive.org/web/20090129224546im_/http://casey.senate.gov/images/sign_me_up.png
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\web\20090129224546im_\http\casey.senate.gov\images\sign_me_up.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20090129224549im_/http://casey.senate.gov/images/home/banner_powerlines_petition.png
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\web\20090129224549im_\http\casey.senate.gov\images\home\banner_powerlines_petition.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20090129224552im_/http://casey.senate.gov/images/search.png
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\web\20090129224552im_\http\casey.senate.gov\images\search.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20090129224555im_/http://casey.senate.gov/images/home/banner_disaster.jpg
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\web\20090129224555im_\http\casey.senate.gov\images\home\banner_disaster.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20090129224602im_/http://casey.senate.gov/images/icons/favicon.ico
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\web\20090129224602im_\http\casey.senate.gov\images\icons\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\_static\css\banner-styles.css
+Content Type: text/css
+
+Uri: https://web.archive.org/_static/css/iconochive.css?v=qtvMKcIJ
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\_static\css\iconochive.css
+Content Type: text/css
+
+Uri: https://web.archive.org/_static/images/loading.gif
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\_static\images\loading.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\_static\images\toolbar\wayback-toolbar-logo-100.png
+Content Type: image/png
+
+Uri: https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-150.png
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\_static\images\toolbar\wayback-toolbar-logo-150.png
+Content Type: image/png
+
+Uri: https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\_static\images\toolbar\wayback-toolbar-logo-200.png
+Content Type: image/png
+
+Uri: https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\_static\images\toolbar\wm_tb_nxt_on.png
+Content Type: image/png
+
+Uri: https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\_static\images\toolbar\wm_tb_prv_on.png
+Content Type: image/png
+
+Uri: https://web.archive.org/_static/js/bundle-playback.js?v=1WaXNDFE
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\_static\js\bundle-playback.js
+Content Type: application/javascript
+
+Uri: https://web.archive.org/_static/js/wombat.js?v=txqj7nKC
+File Name: C:\Users\orepa\OneDrive\Documents\web.archive.org\_static\js\wombat.js
+Content Type: application/javascript
+
